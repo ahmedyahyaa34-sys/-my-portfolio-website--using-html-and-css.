@@ -1,0 +1,92 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cont {
+    
+    padding: 20px;
+    
+}
+.section-2{
+    padding-top: 10px;
+}
+
+.section-1 {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.section-1__anc {
+    text-decoration: none;
+    background-color: aqua;
+    display: inline-block;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+
+.con {
+    padding: 50px;
+}
+
+.section-1__name {
+    font-size: 60px;
+}
+
+.section-1__anc {
+    text-decoration: none;
+    background-color: aqua;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.section-1__role {
+    font-size: 24px;
+    padding: auto;
+
+}
+
+
+.section-5 {
+    background-color: #fe7517;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 5px;
+    height: 200px;
+    vertical-align: top;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.section-3 {
+    background-color: #29bec4;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 5px;
+    height: 200px;
+    vertical-align: top;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.section-4{
+    background-color: black;
+    color: white;
+    display: block;
+   border-radius: 5px;
+}

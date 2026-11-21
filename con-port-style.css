@@ -1,0 +1,53 @@
+.section-1 {
+    background-color: black;
+    color: rgb(243, 234, 234);
+    display: block;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+
+.con {
+    margin: 20px;
+    margin-inline-start: 10px;
+
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+
+.section-1__button {
+    background-color: orangered;
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+
+.section-3 {
+    background-color: black;
+    color: rgb(243, 234, 234);
+    display: inline-block;
+    width: 1300px;
+   padding: 10px;
+    border-radius: 5px; 
+    margin-top: 10px;
+
+}
+.section-3 a{
+
+    color: orangered;
+    text-decoration: none;
+}
+.section-2__button{
+     background-color: orangered;
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 5px;
+}
+.section-1__link{
+    background-color: orangered;
+    border: solid 2px;
+}
